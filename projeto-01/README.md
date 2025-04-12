@@ -1,5 +1,5 @@
 
-# 🧹 Projeto de Limpeza de Dados com Excel – Vendas de Café
+#  Projeto de Limpeza de Dados com Excel – Vendas de Café
 
 ## Descrição do Projeto
 
@@ -9,7 +9,7 @@ Nosso objetivo foi **reduzir ruídos e inconsistências de forma não agressiva*
 ## Base de Dados
 
 A base "Dirty Cafe Sales" foi extraída da plataforma [**Kaggle**](https://www.kaggle.com) e pode ser visualizada neste repositório no seguinte link:  
-[**dirty_cafe_sales.xlsx**](https://github.com/WillianMonteiro23/projetos-sql/blob/main/projeto-03/dirty_cafe_sales.xlsx)
+[**dirty_cafe_sales.xlsx**](https://github.com/WillianMonteiro23/projetos-excel/blob/main/projeto-03/dirty_cafe_sales.xlsx)
 
 Este arquivo representa um conjunto propositalmente bagunçado, com:
 - Dados faltantes
@@ -44,11 +44,11 @@ Este arquivo representa um conjunto propositalmente bagunçado, com:
 
 - **Registro de Mudanças (Change Log)**:  
   Toda a limpeza foi registrada em um documento para rastreabilidade:  
-  [**changelog.xlsx**](https://github.com/WillianMonteiro23/projetos-sql/blob/main/projeto-03/changelog.xlsx)
+  [**changelog.xlsx**](https://github.com/WillianMonteiro23/projetos-excel/blob/main/projeto-03/changelog.xlsx)
 
 ## Resultado Final
 
-- Os resultados podem ser vistos em :[**dirty_cafe_sales_FINAL.xlsx**](https://github.com/WillianMonteiro23/projetos-sql/blob/main/projeto-03/dirty_cafe_sales_FINAL.xlsx)
+- Os resultados podem ser vistos em :[**dirty_cafe_sales_FINAL.xlsx**](https://github.com/WillianMonteiro23/projetos-excel/blob/main/projeto-03/dirty_cafe_sales_FINAL.xlsx)
 - Dados tratados: **9.872 registros válidos**
 - Redução de dados apenas em linhas completamente inúteis
 - Dados prontos para análise em **Power BI**, **Excel** ou outras ferramentas
