@@ -21,6 +21,7 @@ Explorar os padrões de uso de clientes, identificar os principais motivos de ro
 - Criado por: **Oluwademilade Adeniyi**  
   Assistido por: **ChatGPT (OpenAI)**  
   Fonte: Preços e dispositivos reais da **MTN eShop – Q1 2025**
+- Base de dados [**mtn_customer_churn.csv**](https://github.com/WillianMonteiro23/projetos-excel/blob/master/projeto-03/mtn_customer_churn.csv)
 
 ###  Colunas principais:
 
